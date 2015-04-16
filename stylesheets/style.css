@@ -27,7 +27,7 @@ header nav {
 }
 
 main {
-  background: white;
+  background: orange;
   overflow: auto;
 }
 
@@ -35,6 +35,8 @@ main .left {
   float: left;
   width: 570px;
 }
+
+li {color: #33ff00;}
 
 main .right {
   float: right;
